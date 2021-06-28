@@ -24,7 +24,7 @@ Quantum Communication over the Quantum channels or Networks would take place usi
 ## Cons to the establishment of Quantum Networks
 
 1. Wireless communication over long distances, keeping in-tact the entanglement of the photons is a challenge. [Micius](https://www.drishtiias.com/daily-updates/daily-news-analysis/micius-a-quantum-enabled-satellite) achieved it to an extent. Give it a read by clicking on the Micius word in the previous sentence.
-2. To transfer photons, we need long Optical fibers(lossless), veyr costly.
+2. To transfer photons, we need long Optical fibers(lossless), very costly.
 3. Replacing the Classical Internet with the Quantum Internet may take decades.
 
 
@@ -39,7 +39,7 @@ I am going to update this repository if possible everyday about what I studied a
 
 ## About Myself:
 
-A second year undergradfuate B.Tech. student of Institute of Radio Physics and Electronics, University of Calcutta
+A second year undergraduate B.Tech. student of Institute of Radio Physics and Electronics, University of Calcutta
 Aspiring Quantum Computing Researcher
 Presently a Research Intern at University of Hyderabad
 
