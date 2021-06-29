@@ -41,8 +41,8 @@ I am going to update this repository if possible everyday about what I studied a
 
 ## About Myself:
 
-A second year undergraduate B.Tech. student of Institute of Radio Physics and Electronics, University of Calcutta
-Aspiring Quantum Computing Researcher
-Presently a Research Intern at University of Hyderabad
+A second year undergraduate B.Tech. student of Institute of Radio Physics and Electronics, University of Calcutta.
+Aspiring Quantum Computing Researcher.
+Presently a Research Intern at University of Hyderabad.
 
 Read my blogs here:[Click here](https://medium.com/@sanyalamitrakshar/quantum-computers-the-future-in-our-hands-ee76b2663624)
