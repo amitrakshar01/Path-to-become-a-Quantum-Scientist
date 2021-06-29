@@ -10,6 +10,8 @@ I will be studying from the very basics of Quantum Computing, starting from toda
 For the people really wondering about what exactly is Quantum Computing. Quantum Computing is a new field of Computing which relates Physics(Quantum Physics and other branches) with Computers.
 [Read more](https://www.ibm.com/quantum-computing/what-is-quantum-computing/)
 
+![](https://media.wired.co.uk/photos/606da2e35b10d6006e4b21a2/1:1/w_2000,h_2000,c_limit/quantum-computing-hero.jpg)
+
 ## Is there future in Quantum Computing?
 
 Of course, the domain which I will be delving into deeply in the later phase of my research is specifically known as "Quantum Networks". Now what is this "Quantum Network" thing? Simplifying the term, we get to the meaning of it: Network, i.e., a new Network or a new Internet: the Quantum Internet. When a network is being set up, it has to be secure. The  comes into play: "Quantum Cryptography", a way more secure network than the standard Symmetric and Asymmetric Encryption methids being used today.
