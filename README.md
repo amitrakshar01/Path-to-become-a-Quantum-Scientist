@@ -2,7 +2,7 @@
 
 ## Reason for this repo:
 
-I will be studying from the very basics of Quantum Computing, starting from today(27th June, 2021). Everyday I study I would be commiting the Research Papers I studied during the day and also the code(if I write any on that day) for Quantum Circuit simulation. If I simulate any circuit, I would even post the png form of that circuit. People interested to join with me in this study can star this repo and follow me for updates.
+I will be studying from the very basics of Quantum Computing, starting from today(27th June, 2021). Everyday I study, I would be commiting the Research Papers I studied during the day and also the code(if I write any on that day) for Quantum Circuit simulation. If I simulate any circuit, I would even post the png form of that circuit. People interested to join with me in this study can star this repo and follow me for updates.
 
 ## What is Quantum Computing?
 
